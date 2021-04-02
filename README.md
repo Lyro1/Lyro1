@@ -2,9 +2,9 @@
 
 ## 🔭 I’m currently working on
 
+- 👍 A feedback web app
 - 👨‍🎓 A school management app
 - 🧾 A restaurant bill automated spliting app
-- 🦠 An automated malware crawler plateform for research teams
 
 
 🚀 Currently looking for potential new opportunities, do not hesitate to contact me:
