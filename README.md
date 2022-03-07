@@ -3,6 +3,7 @@
 ## 🔭 I’m currently working on
 
 - 👍 A feedback web app
+- 🏎️ A car game
 
 
 🚀 Currently looking for potential new opportunities, do not hesitate to contact me:
