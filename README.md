@@ -2,11 +2,11 @@
 
 ## 🔭 I’m currently working on
 
+- 👨‍🎓 [RiseUp.ai](https://riseup.ai)
 - 👍 A feedback web app
-- 🏎️ A car game
 
 
-🚀 Currently looking for potential new opportunities, do not hesitate to contact me:
+🚀 Currently migrating amazing features on RiseUp.ai
 
 - https://lyro.fr
 - contact[at]lyro.fr
