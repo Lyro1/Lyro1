@@ -3,6 +3,7 @@
 ## 🔭 I’m currently working on
 
 - 👨‍🎓 [RiseUp.ai](https://riseup.ai)
+- 🏡 A rental management app
 - 👍 A feedback web app
 
 
