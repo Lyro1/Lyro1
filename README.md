@@ -9,8 +9,9 @@
 
 🚀 Currently migrating amazing features on RiseUp.ai
 
+## 🤝 To get in touch
 - https://lyro.fr
-- contact[at]lyro.fr
+- [mailto:contact@lyro.fr](contact[at]lyro.fr)
 
 <!--
 **Lyro1/Lyro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
