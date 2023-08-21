@@ -2,7 +2,7 @@
 
 ## 🔭 I’m currently working on
 
-- 👨‍🎓 [RiseUp.ai](https://riseup.ai)
+- 🎨 [Balthasart](https://balthasart.com)
 - 🏡 A rental management app
 - 👍 A feedback web app
 
