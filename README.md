@@ -7,7 +7,7 @@
 - 👍 A feedback web app
 
 
-🚀 Currently migrating amazing features on RiseUp.ai
+🚀 Currently building an amazing artist-focused product @ Balthasart
 
 ## 🤝 To get in touch
 - https://lyro.fr
