@@ -2,9 +2,9 @@
 
 ## 🔭 I’m currently working on
 
+- 🎨 [Singulart](https://singulart.com)
 - 🎨 [Balthasart](https://balthasart.com)
-- 🏡 A rental management app
-- 👍 A feedback web app
+- 👀 Another art related project
 
 
 🚀 Currently building an amazing artist-focused product @ Balthasart
