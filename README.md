@@ -2,9 +2,9 @@
 
 ## 🔭 I’m currently working on
 
+- 🏠 [Rentily.io](https://rentily.io)
 - 🎨 [Singulart](https://singulart.com)
 - 🎨 [Balthasart](https://balthasart.com)
-- 👀 Another art related project
 
 
 🚀 Currently building an amazing artist-focused product @ Balthasart
