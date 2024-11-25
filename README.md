@@ -2,6 +2,7 @@
 
 ## 🔭 I’m currently working on
 
+- 📅 [Slotmate.app](https://slotmate.app)
 - 🏠 [Rentily.io](https://rentily.io)
 - 🎨 [Singulart](https://singulart.com)
 - 🎨 [Balthasart](https://balthasart.com)
