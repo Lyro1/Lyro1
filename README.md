@@ -2,13 +2,17 @@
 
 ## 🔭 I’m currently working on
 
+- 📸 [Shutterflow.io](https://shutterflow.io)
+
+🚀 Currently building an amazing all-in-one assistant for photographer on autopilot @ Shutterflow
+
+## 👀 I keep an eye on
+
+- 🏎️ [DriveLeague.com](https://driveleague.com)
 - 📅 [Slotmate.app](https://slotmate.app)
 - 🏠 [Rentily.io](https://rentily.io)
 - 🎨 [Singulart](https://singulart.com)
 - 🎨 [Balthasart](https://balthasart.com)
-
-
-🚀 Currently building an amazing artist-focused product @ Balthasart
 
 ## 🤝 To get in touch
 - https://lyro.fr
